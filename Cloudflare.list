@@ -1,0 +1,10 @@
+# cloudflare使用直连
+
+# DNS
+DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
+
+# 其他网站
+DOMAIN-SUFFIX,dash.cloudflare.com
+DOMAIN-SUFFIX,cfargotunnel.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,gzdjzx.us.kg
